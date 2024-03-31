@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+    font-size: 15px;
+    background-color: indianred;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    position: relative;
+    text-align: center;
+}
+
+
+.container {
+    text-align: center;
+    text-emphasis: none;
+}
+
+input[type="number"] {
+    width: auto;
+    height: 30px;
+    border: tan;
+}
+
+button {
+    background-color: #8d0076; 
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+button:hover {
+    opacity: 0.9;
+}
+
